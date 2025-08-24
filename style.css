@@ -238,11 +238,12 @@ footer {
 .footer-logo {
   font-weight: bold;
   font-size: 20px;
+  margin: -20px 0px;
 }
 
 .socials img {
   width: 24px;
-  margin: 0 8px;
+  margin: 0 30px;
 }
 
 .label{
@@ -313,4 +314,8 @@ outline: none;
   line-height: 100%;
   letter-spacing: 0%;
 
+}
+
+.socials{
+    margin: 0px -200px;
 }
